@@ -1,3 +1,1 @@
-To deploy unzip the similarity_score.pkl and run the program.
 
-Happy Coding...
